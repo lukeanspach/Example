@@ -1,3 +1,3 @@
 # GeeWhiz
 
-This is a digital form of cheese whiz.
+This is a digital form of cheese whizzle.
